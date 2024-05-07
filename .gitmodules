@@ -1,0 +1,6 @@
+[submodule "farmacode"]
+	path = farmacode
+	url = https://github.com/bombi00/farmacode.git
+[submodule "mvp"]
+	path = mvp
+	url = https://github.com/bombi00/mvp.git
